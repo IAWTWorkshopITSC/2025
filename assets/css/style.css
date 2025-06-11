@@ -25,3 +25,12 @@
 .main-content h6 {
   color: #cf5c04;
 }
+a {
+  color: #cf5c04; 
+  text-decoration: none;
+}
+
+a:hover {
+  color: #cf5c04; 
+  text-decoration: underline; 
+}
