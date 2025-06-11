@@ -1,0 +1,13 @@
+---
+---
+
+@import "{{ site.theme }}";
+.main-content {
+  table {
+   font-size: 8px;
+ }
+  h1 {
+   color: #334cff;
+ }
+  
+}
