@@ -47,7 +47,7 @@ Please make sure to [register](https://ieee-itsc.org/2025/attend/registration/) 
 * [Dr. Hanna Krasowski](https://hanna.krasowski.io/), University of California, Berkeley, CA, United States 
 * [Dr. Frédéric Etienne Kracht](https://www.linkedin.com/in/frederickracht), Development Center for Ship Technology and Transport Systems e. V. (DST), Germany
 * [Dr. Philipp Sieberg](https://www.linkedin.com/in/dr-philipp-sieberg-1a21bb199/?originalSubdomain=de), Schotte Automotive GmbH & Co. KG., Germany & University of Duisburg-Essen, Germany
-*	Kathrin Donandt[^1], University of Duisburg-Essen & Federal Waterways Engineering and Research Institute, Germany
+*	[Kathrin Donandt](https://www.uni-due.de/srs/person.php?Id=147)[^1], University of Duisburg-Essen & Federal Waterways Engineering and Research Institute, Germany
 
 [^1]: [contact person](mailto:kathrin.donandt@web.de?subject=IEEEITSCWorkshop)
 
