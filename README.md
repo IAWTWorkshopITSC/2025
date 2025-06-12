@@ -57,7 +57,7 @@ Please make sure to [register](https://ieee-itsc.org/2025/attend/registration/) 
   
   <!-- Left -->
   <a style="text-decoration: none;" href="https://www.dst-org.de/en/" target="_blank">
-    <img src="rz_logo_dst_cmyk_100_66_0_2_02.svg" alt="DST" height="80"> 
+    <img src="rz_logo_dst_cmyk_100_66_0_2_02.svg" alt="DST" height="60"> 
   </a>
 
   <!-- Center -->
@@ -65,9 +65,13 @@ Please make sure to [register](https://ieee-itsc.org/2025/attend/registration/) 
     <img src="Schotte_Tec_Logo.png" alt="SCHOTTE" height="75"> 
   </a>
 
+  <a style="text-decoration:none" href="https://www.baw.de/en/home/home.html" target="_blank">
+    <img src="BAW_kurz_blau_RGB.png" alt="BAW" float="left" height="75"/> 
+  </a>
+
   <!-- Right -->
   <a style="text-decoration: none;" href="https://www.uni-due.de/en/index.php" target="_blank">
-    <img src="logo_claim_72dpi_rgb_200.jpg" alt="UDE" height="80"> 
+    <img src="logo_claim_72dpi_rgb_200.jpg" alt="UDE" height="60"> 
   </a>
 
 </div>
