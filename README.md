@@ -15,7 +15,7 @@ To be published soon.
 ### [Dr. Asgeir Sørensen](https://www.ntnu.edu/employees/asgeir.sorensen)
 
 <img src="Sorensen.jpg" alt="Sorensen" align="left" width="140" style="vertical-align:middle;margin:0px 25px 0px 0px"/>
-Asgeir obtained his PhD degree in Engineering Cybernetics at NTNU in 1993. In 1989-1992 Asgeir was employed at MARINTEK (SINTEF) as Research Scientist. Since 1999 Asgeir has held the position of Professor of Marine Control Systems at the Department of Marine Technology, NTNU (Norway). He is currently acting as key scientist and the Director of the NTNU VISTA CAROS. Asgeir has together with colleagues established the Marine Cybernetics Laboratory (MC-Lab) and the Applied Underwater Robotics Laboratory (AUR-Lab), both at NTNU. Asgeir is engaged in bringing fundamental research results into value creation by innovations and entrepreneurships.
+Asgeir obtained his PhD degree in Engineering Cybernetics at NTNU in 1993. In 1989-1992 Asgeir was employed at MARINTEK (SINTEF) as Research Scientist. Since 1999 Asgeir has held the position of Professor of Marine Control Systems at the Department of Marine Technology, NTNU (Norway). He is currently acting as key scientist and the Director of the NTNU VISTA CAROS. Asgeir has together with colleagues established the Marine Cybernetics Laboratory (MC-Lab) and the Applied Underwater Robotics Laboratory (AUR-Lab), both at NTNU. Asgeir is engaged in bringing fundamental research results into value creation by innovations and entrepreneurships.   
 
 _Title of talk: The influence of green shift in shipping affecting control system designs for guidance, navigation and control systems_
 
