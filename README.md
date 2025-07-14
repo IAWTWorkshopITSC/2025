@@ -1,7 +1,7 @@
 # 4th Workshop on Intelligent and Automated <br /> Waterway Transportation 
 
 <h3 align="center">
-  <a href="{{ site.call_for_contributions_url }}" style="font-size: 2em; font-weight: bold; background-color: #e63946; padding: 15px 30px; border-radius: 8px; text-decoration: none; color: white;">
+  <a href="{{ site.call_for_contributions_url }}" style="font-size: 1.2em; font-weight: bold; background-color: #e63946; padding: 15px 30px; border-radius: 8px; text-decoration: none; color: white;">
     Call for Contributions
   </a>
 </h3>
