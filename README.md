@@ -11,7 +11,7 @@
 The **4th Workshop on Intelligent and Automated Waterway Transportation**, which will take place on November 18th, 2025 at the [28th IEEE International Conference on Intelligent Transportation Systems](https://ieee-itsc.org/2025/) in Gold Coast, Australia, aims to foster technical and scientific exchange between academia, industry, and public authorities in the rapidly evolving fields of autonomous waterborne transportation and smart intermodal logistics. It serves as a platform to present and discuss recent advancements in intelligent and automated systems for inland, coastal and off-shore maritime transportation. Key topics include autonomous vessel development, advanced assistance systems, modeling and simulation, digital twins for waterways, navigation and control strategies, as well as automation of cargo handling. By bringing together experts from research institutions, industry leaders, consultants, and regulatory bodies, the workshop encourages interdisciplinary dialogue and collaboration. As an integral part of the broader Intelligent Transport Systems (ITS) community, the workshop emphasizes the role of autonomous shipping in shaping the future of transportation. 
 Presentations by [invited experts](#invited-experts) will provide exciting insights into recent research achievements and innovative projects. Additionally, researchers will have the opportunity to present their work and connect with peers during the poster session. 
 
-Interested in contributing? Submit your abstract 👉[here](https://docs.google.com/forms/d/e/1FAIpQLSegqE_srBeCVRJyyzYTrg0mcZAQsLEN1gQThHxMP2hL7_fXgQ/viewform?usp=header).
+Interested in contributing? Submit your abstract [here](https://docs.google.com/forms/d/e/1FAIpQLSegqE_srBeCVRJyyzYTrg0mcZAQsLEN1gQThHxMP2hL7_fXgQ/viewform?usp=header).
 
 ## Workshop schedule
 
@@ -45,9 +45,9 @@ _Title of talk: Human, Machine, and the Sea: Rethinking Human Factors in Maritim
 
 _Title of talk: Towards advanced decision-making support for shipping safety: A functional connectivity analysis_
 
-### [Tom Legel]
+### Tom Legel
 
-<img src="TL.JPG" alt="Legel" align="left" width="140" style="vertical-align:middle;margin:0px 25px 0px 0px"/> Tom works at the Federal Waterways Engineering and Research Institute (BAW) in the department for Hydraulic Engineering in Inland Areas. He holds a Bachelor's degree in Mathematics from Humboldt University of Berlin and previously worked in Business Intelligence consulting from 2018 to 2021. To deepen his understanding of complex data processing, he pursued a degree in Computer Science at the Baden-Wuerttemberg Cooperative State University (DHBW) in Karlsruhe, with BAW as his dual partner. His work focuses on the analysis of traffic-related data, particularly data from the Automatic Identification System (AIS), to promote safety and efficiency in inland navigation using machine learning techniques. 
+<img src="TL.jpg" alt="Legel" align="left" width="140" style="vertical-align:middle;margin:0px 25px 0px 0px"/> Tom works at the Federal Waterways Engineering and Research Institute (BAW) in the department for Hydraulic Engineering in Inland Areas. He holds a Bachelor's degree in Mathematics from Humboldt University of Berlin and previously worked in Business Intelligence consulting from 2018 to 2021. To deepen his understanding of complex data processing, he pursued a degree in Computer Science at the Baden-Wuerttemberg Cooperative State University (DHBW) in Karlsruhe, with BAW as his dual partner. His work focuses on the analysis of traffic-related data, particularly data from the Automatic Identification System (AIS), to promote safety and efficiency in inland navigation using machine learning techniques. 
 
 _Title of talk: Optimized lock scheduling with methods of Reinforcement Learning_
 
