@@ -1,5 +1,11 @@
 # 4th Workshop on Intelligent and Automated <br /> Waterway Transportation 
 
+<h3 align="center">
+  <a href="{{ site.call_for_contributions_url }}" style="font-size: 2em; font-weight: bold; background-color: #e63946; padding: 15px 30px; border-radius: 8px; text-decoration: none; color: white;">
+    Call for Contributions
+  </a>
+</h3>
+
 ## Aim of the workshop
 
 The **4th Workshop on Intelligent and Automated Waterway Transportation**, which will take place on November 18th, 2025 at the [28th IEEE International Conference on Intelligent Transportation Systems](https://ieee-itsc.org/2025/) in Gold Coast, Australia, aims to foster technical and scientific exchange between academia, industry, and public authorities in the rapidly evolving fields of autonomous waterborne transportation and smart intermodal logistics. It serves as a platform to present and discuss recent advancements in intelligent and automated systems for inland, coastal and off-shore maritime transportation. Key topics include autonomous vessel development, advanced assistance systems, modeling and simulation, digital twins for waterways, navigation and control strategies, as well as automation of cargo handling. By bringing together experts from research institutions, industry leaders, consultants, and regulatory bodies, the workshop encourages interdisciplinary dialogue and collaboration. As an integral part of the broader Intelligent Transport Systems (ITS) community, the workshop emphasizes the role of autonomous shipping in shaping the future of transportation. 
