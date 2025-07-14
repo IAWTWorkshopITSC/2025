@@ -26,6 +26,13 @@ To be published soon.
 
 _Title of talk: The influence of green shift in shipping affecting control system designs for guidance, navigation and control systems_
 
+### [Dr. Daniel Medina](https://www.linkedin.com/in/eng-daniel-medina)
+
+<img src="Medina.jpg" alt="Medina" align="left" width="140" style="vertical-align:middle;margin:0px 25px 0px 0px"/> Daniel received the B.Eng. in the field of Electrical Engineering 2011 from University of Malaga in 2014, and the M. Sc. and PhD from University Carlos III de Madrid (UC3M) in 2016 and 2022, respectively. He is currently a research fellow at the Institute of Communications and Navigation of the German Aerospace Center (DLR), where he leads the Multi Sensor Systems research group, dedicated to the provision of perception and navigation solutions with applications to intelligent transport and autonomous systems. His research interests include signal processing, robust filtering and estimation theory with applications to satellite-based navigation and SLAM. He is an Associate Editor for the IEEE Transactions on Intelligent Transportation Systems and currently serves as the elected Chair for the IEEE ITSS German Chapter.
+
+_Title of talk: Reliable and Precise Perception and Navigation based on Multimodal Sensing for Inland Waterways_
+
+
 ### [Dr. Magnus Liebherr](https://www.linkedin.com/in/magnus-liebherr-259335183)
 
 <img src="Liebherr1.jpg" alt="Liebherr" align="left" width="140" style="vertical-align:middle;margin:0px 25px 0px 0px"/>Magnus is a cognitive psychologist and expert in human factors and automation. He leads the "Human-Factors and Cognition" group at the chair of mechatronics, University of Duisburg-Essen (Germany), where his work bridges psychology, engineering, and digital transformation. Magnus has been involved in numerous interdisciplinary research projects across domains such as mobility, logistics, and digital health, and has successfully acquired substantial third-party funding from national and European programs. He was awarded a prestigious postdoctoral fellowship at the Karolinska Institutet in Stockholm, reflecting the international recognition of his work. His current projects aim to understand how humans adapt cognitively and emotionally in increasingly automated and AI-driven environments—a perspective he brings into large-scale research initiatives and international collaborations that actively shape the evolving research landscape. 	 
@@ -38,11 +45,13 @@ _Title of talk: Human, Machine, and the Sea: Rethinking Human Factors in Maritim
 
 _Title of talk: Towards advanced decision-making support for shipping safety: A functional connectivity analysis_
 
-### [Dr. Daniel Medina](https://www.linkedin.com/in/eng-daniel-medina)
+### [Dr. Tristan Perez](https://au.linkedin.com/in/tristan-perez-phd-b463584)
 
-<img src="Medina.jpg" alt="Medina" align="left" width="140" style="vertical-align:middle;margin:0px 25px 0px 0px"/> Daniel received the B.Eng. in the field of Electrical Engineering 2011 from University of Malaga in 2014, and the M. Sc. and PhD from University Carlos III de Madrid (UC3M) in 2016 and 2022, respectively. He is currently a research fellow at the Institute of Communications and Navigation of the German Aerospace Center (DLR), where he leads the Multi Sensor Systems research group, dedicated to the provision of perception and navigation solutions with applications to intelligent transport and autonomous systems. His research interests include signal processing, robust filtering and estimation theory with applications to satellite-based navigation and SLAM. He is an Associate Editor for the IEEE Transactions on Intelligent Transportation Systems and currently serves as the elected Chair for the IEEE ITSS German Chapter.
+<img src="TP.jpg" alt="Perez" align="left" width="140" style="vertical-align:middle;margin:0px 25px 0px 0px"/> Tristan is a distinguished expert in the field of autonomy and robotics. Originally from Argentina, he pursued his studies in Electrical and Control Engineering, laying a strong foundation for his future endeavours. Tristan further advanced his credentials by completing a PhD in Control Theory at the University of Newcastle in Australia.
+Currently, he serves as the Chief Scientist for Autonomy Capabilities in the Boeing CTO Office, where he plays a pivotal leadership role to autonomy projects across the Boeing enterprise. His expertise encompasses the test, evaluation, and assurance of autonomous systems, with a particular focus on autonomous systems behaviours and mission assurance.
+Prior to his tenure at Boeing, Tristan was a Professor of Robotics and Autonomous Systems, where he contributed significantly to the academic community. With over 25 years of technical experience, he possesses a unique blend of skills in system theory, artificial intelligence, robotics, and automation. His solid track record includes numerous contributions to industry products and collaborations with defence and government sectors, underscoring his commitment to advancing the field of autonomous systems.
 
-_Title of talk: Reliable and Precise Perception and Navigation based on Multimodal Sensing for Inland Waterways_
+_Title of talk: Test, Evaluation & Assurance of Autonomous System Capabilities_
 
 
 ## Expected participation
