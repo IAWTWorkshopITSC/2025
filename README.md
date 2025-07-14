@@ -45,6 +45,13 @@ _Title of talk: Human, Machine, and the Sea: Rethinking Human Factors in Maritim
 
 _Title of talk: Towards advanced decision-making support for shipping safety: A functional connectivity analysis_
 
+### [Tom Legel]
+
+<img src="TL.JPG" alt="Legel" align="left" width="140" style="vertical-align:middle;margin:0px 25px 0px 0px"/> Tom works at the Federal Waterways Engineering and Research Institute (BAW) in the department for Hydraulic Engineering in Inland Areas. He holds a Bachelor's degree in Mathematics from Humboldt University of Berlin and previously worked in Business Intelligence consulting from 2018 to 2021. To deepen his understanding of complex data processing, he pursued a degree in Computer Science at the Baden-Wuerttemberg Cooperative State University (DHBW) in Karlsruhe, with BAW as his dual partner. His work focuses on the analysis of traffic-related data, particularly data from the Automatic Identification System (AIS), to promote safety and efficiency in inland navigation using machine learning techniques. 
+
+_Title of talk: Optimized lock scheduling with methods of Reinforcement Learning_
+
+
 ### [Dr. Tristan Perez](https://au.linkedin.com/in/tristan-perez-phd-b463584)
 
 <img src="TP.jpg" alt="Perez" align="left" width="140" style="vertical-align:middle;margin:0px 25px 0px 0px"/> Tristan is a distinguished expert in the field of autonomy and robotics. Originally from Argentina, he pursued his studies in Electrical and Control Engineering, laying a strong foundation for his future endeavours. Tristan further advanced his credentials by completing a PhD in Control Theory at the University of Newcastle in Australia.
