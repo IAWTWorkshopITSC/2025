@@ -15,8 +15,23 @@ Interested in contributing? Submit your abstract [here](https://docs.google.com/
 
 ## Workshop schedule
 
-To be published soon.
 
+<table> <tr><th>Time</th><th>Title</th><th>Speaker</th><th>Affiliation</th><th>Type</th></tr><tbody> 
+  <tr><td>08:30–08:40</td><td>Opening</td><td>Philipp Sieberg</td><td>Schotte Automotive, Germany</td><td>Organization</td></tr> 
+  <tr><td>08:40–09:05</td> <td>The Influence of Green Shift in Shipping Affecting Control System Designs for Guidance, Navigation and Control Systems</td> <td>Dr. Asgeir Sørensen</td> <td>NTNU, Norway</td> <td>Invited expert's presentation</td> </tr> 
+  <tr><td>09:05–09:30</td> <td>Human, Machine, and the Sea: Rethinking Human Factors in Maritime Automation</td> <td>Dr. Magnus Liebherr (TBC) </td> <td>University of Duisburg-Essen, Germany</td> <td>Invited expert's presentation</td> </tr> 
+  <tr><td>09:30–09:55</td> <td> (TBC) </td> <td>Tristan Perez (TBC)</td> <td>The Boeing Company, Australia</td> <td>Invited expert's presentation</td> </tr> 
+  <tr><td>09:55–10:05</td> <td align="center" colspan="4"><em>Lightning Talks by Poster Contributors</em></td> </tr> 
+  <tr><td>10:05–10:30</td> <td align="center" colspan="4"><em>Poster Session</em></td> </tr> 
+  <tr><td>10:30–11:00</td> <td align="center" colspan="4"><em>Coffee Break &amp; Poster Session (cont.)</em></td> </tr> 
+  <tr><td>11:00–11:25</td> <td>Towards Advanced Decision-Making Support for Shipping Safety: A Functional Connectivity Analysis</td> <td>Dr. Shiqi Fan (TBC) </td> <td>Wuhan University of Technology, China</td> <td>Invited expert's presentation</td> </tr> <tr>
+  <td>11:25–11:50</td> <td>Optimized Lock Scheduling with Methods of Reinforcement Learning</td> <td>Tom Legel</td> <td>Federal Waterways Engineering and Research Institute, Germany</td> <td>Invited expert's presentation</td> </tr> <tr>
+  <td>11:50–12:25</td> <td align="center" colspan="4"><em>Panel Discussion</em><br>(Moderation: Dr. Frederic Kracht, Development Centre for Ship Technology and Transport Systems, Germany) </td> </tr> 
+  <tr>
+    <td>12:25–12:30</td> <td>Closing</td> <td>Dr. Hanna Krasowski</td> <td>UC Berkeley, USA</td> <td>Organization</td> </tr> 
+</tbody></table>
+
+Please note: This schedule is tentative and subject to change.
 
 ## Invited experts
 
@@ -41,7 +56,7 @@ _Title of talk: Human, Machine, and the Sea: Rethinking Human Factors in Maritim
 
 ### [Dr. Shiqi Fan](https://www.linkedin.com/in/shiqi-fan-b317658b)
 
-<img src="Fan.jpg" alt="Fan" align="left" width="140" style="vertical-align:middle;margin:0px 25px 0px 0px"/> Shiqi, a professor at the School of Transportation and Logistics, Wuhan University of Technology, specialises in maritime human factors and safety. Holding PhD in Maritime Engineering from Liverpool John Moores University, her work advances data-driven risk modelling and the application of neuroimaging techniques in maritime human factors. She has led work packages under the European Research Council funded TRUST project and Marie Skłodowska-Curie actions ENHANCE, focusing on decision-making and human performance in maritime operations. Shiqi is a Chartered Engineer (CEng), Chartered Marine Engineer (CMarEng) and member of the Institute of Marine Engineering, Science and Technology (MIMarEST).	 
+Shiqi, a professor at the School of Transportation and Logistics, Wuhan University of Technology, specialises in maritime human factors and safety. Holding PhD in Maritime Engineering from Liverpool John Moores University, her work advances data-driven risk modelling and the application of neuroimaging techniques in maritime human factors. She has led work packages under the European Research Council funded TRUST project and Marie Skłodowska-Curie actions ENHANCE, focusing on decision-making and human performance in maritime operations. Shiqi is a Chartered Engineer (CEng), Chartered Marine Engineer (CMarEng) and member of the Institute of Marine Engineering, Science and Technology (MIMarEST).	 
 
 _Title of talk: Towards advanced decision-making support for shipping safety: A functional connectivity analysis_
 
