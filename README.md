@@ -17,10 +17,10 @@ Interested in contributing? Submit your abstract [here](https://docs.google.com/
 
 
 <table> <tr><th>Time</th><th>Title</th><th>Speaker</th><th>Affiliation</th><th>Type</th></tr><tbody> 
-  <tr><td>08:30–08:40</td><td>Opening</td><td>Philipp Sieberg</td><td>Schotte Automotive, Germany</td><td>Organization</td></tr> 
+  <tr><td>08:30–08:40</td><td>Opening</td><td>Dr. Philipp Sieberg</td><td>Schotte Automotive, Germany</td><td>Organization</td></tr> 
   <tr><td>08:40–09:05</td> <td>The Influence of Green Shift in Shipping Affecting Control System Designs for Guidance, Navigation and Control Systems</td> <td>Dr. Asgeir Sørensen</td> <td>NTNU, Norway</td> <td>Invited expert's presentation</td> </tr> 
   <tr><td>09:05–09:30</td> <td>Human, Machine, and the Sea: Rethinking Human Factors in Maritime Automation</td> <td>Dr. Magnus Liebherr (TBC) </td> <td>University of Duisburg-Essen, Germany</td> <td>Invited expert's presentation</td> </tr> 
-  <tr><td>09:30–09:55</td> <td> (TBC) </td> <td>Tristan Perez (TBC)</td> <td>The Boeing Company, Australia</td> <td>Invited expert's presentation</td> </tr> 
+  <tr><td>09:30–09:55</td> <td>Test, Evaluation &amp; Assurance of Autonomous System Capabilities</td> <td>Dr. Tristan Perez (TBC)</td> <td>The Boeing Company, Australia</td> <td>Invited expert's presentation</td> </tr> 
   <tr><td>09:55–10:05</td> <td align="center" colspan="4"><em>Lightning Talks by Poster Contributors</em></td> </tr> 
   <tr><td>10:05–10:30</td> <td align="center" colspan="4"><em>Poster Session</em></td> </tr> 
   <tr><td>10:30–11:00</td> <td align="center" colspan="4"><em>Coffee Break &amp; Poster Session (cont.)</em></td> </tr> 
