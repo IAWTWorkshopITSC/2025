@@ -16,7 +16,7 @@ Interested in contributing? Submit your abstract [here](https://docs.google.com/
 ## Workshop schedule
 
 
-<table> <tr><th>Time</th><th>Title</th><th>Speaker</th><th>Affiliation</th><th>Type</th></tr><tbody> 
+<table style="text-align:left;"> <tr><th>Time</th><th>Title</th><th>Speaker</th><th>Affiliation</th><th>Type</th></tr><tbody> 
   <tr><td>08:30–08:40</td><td>Opening</td><td>Dr. Philipp Sieberg</td><td>Schotte Automotive, Germany</td><td>Organization</td></tr> 
   <tr><td>08:40–09:05</td> <td>The Influence of Green Shift in Shipping Affecting Control System Designs for Guidance, Navigation and Control Systems</td> <td>Dr. Asgeir Sørensen</td> <td>NTNU, Norway</td> <td>Invited expert's presentation</td> </tr> 
   <tr><td>09:05–09:30</td> <td>Human, Machine, and the Sea: Rethinking Human Factors in Maritime Automation</td> <td>Dr. Magnus Liebherr (TBC) </td> <td>University of Duisburg-Essen, Germany</td> <td>Invited expert's presentation</td> </tr> 
