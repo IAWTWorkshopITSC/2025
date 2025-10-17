@@ -41,12 +41,12 @@ Please note: This schedule is tentative and subject to change.
 
 _Title of talk: The influence of green shift in shipping affecting control system designs for guidance, navigation and control systems_
 
-### [Dr. Daniel Medina](https://www.linkedin.com/in/eng-daniel-medina)
+<!-- ### [Dr. Daniel Medina](https://www.linkedin.com/in/eng-daniel-medina)
 
 Daniel received the B.Eng. in the field of Electrical Engineering 2011 from University of Malaga in 2014, and the M. Sc. and PhD from University Carlos III de Madrid (UC3M) in 2016 and 2022, respectively. He is currently a research fellow at the Institute of Communications and Navigation of the German Aerospace Center (DLR), where he leads the Multi Sensor Systems research group, dedicated to the provision of perception and navigation solutions with applications to intelligent transport and autonomous systems. His research interests include signal processing, robust filtering and estimation theory with applications to satellite-based navigation and SLAM. He is an Associate Editor for the IEEE Transactions on Intelligent Transportation Systems and currently serves as the elected Chair for the IEEE ITSS German Chapter.
 
 _Title of talk: Reliable and Precise Perception and Navigation based on Multimodal Sensing for Inland Waterways_
-
+-->
 
 ### [Dr. Magnus Liebherr](https://www.linkedin.com/in/magnus-liebherr-259335183)
 
