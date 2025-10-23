@@ -18,13 +18,13 @@ Interested in contributing? Submit your abstract [here](https://docs.google.com/
 
 <table style="text-align:left;"> <tr><th>Time</th><th>Title</th><th>Speaker</th><th>Affiliation</th><th>Type</th></tr><tbody> 
   <tr><td>08:30–08:40</td><td>Opening</td><td>Dr. Philipp Sieberg</td><td>Schotte Automotive, Germany</td><td>Organization</td></tr> 
-  <tr><td>08:40–09:05</td> <td>The Influence of Green Shift in Shipping Affecting Control System Designs for Guidance, Navigation and Control Systems</td> <td>Dr. Asgeir Sørensen</td> <td>NTNU, Norway</td> <td>Invited expert's presentation</td> </tr> 
+  <tr><td>08:40–09:05</td> <td>Towards Advanced Decision-Making Support for Shipping Safety: A Functional Connectivity Analysis</td> <td>Dr. Shiqi Fan (TBC) </td> <td>Wuhan University of Technology, China</td> <td>Invited expert's presentation</td> </tr>
   <tr><td>09:05–09:30</td> <td>Human, Machine, and the Sea: Rethinking Human Factors in Maritime Automation</td> <td>Dr. Magnus Liebherr (TBC) </td> <td>University of Duisburg-Essen, Germany</td> <td>Invited expert's presentation</td> </tr> 
   <tr><td>09:30–09:55</td> <td>Test, Evaluation &amp; Assurance of Autonomous System Capabilities</td> <td>Dr. Tristan Perez (TBC)</td> <td>The Boeing Company, Australia</td> <td>Invited expert's presentation</td> </tr> 
   <tr><td>09:55–10:05</td> <td align="center" colspan="4"><em>Lightning Talks by Poster Contributors</em></td> </tr> 
   <tr><td>10:05–10:30</td> <td align="center" colspan="4"><em>Poster Session</em></td> </tr> 
   <tr><td>10:30–11:00</td> <td align="center" colspan="4"><em>Coffee Break &amp; Poster Session (cont.)</em></td> </tr> 
-  <tr><td>11:00–11:25</td> <td>Towards Advanced Decision-Making Support for Shipping Safety: A Functional Connectivity Analysis</td> <td>Dr. Shiqi Fan (TBC) </td> <td>Wuhan University of Technology, China</td> <td>Invited expert's presentation</td> </tr> <tr>
+  <tr><td>11:00–11:25</td> <td>Autonomous Vehicles: Where Learning Meets Control</td> <td>Dr. Andreas Malikopoulos</td> <td>Cornell University, USA</td> <td>Invited expert's presentation</td> </tr> <tr>
   <td>11:25–11:50</td> <td>Optimized Lock Scheduling with Methods of Reinforcement Learning</td> <td>Tom Legel</td> <td>Federal Waterways Engineering and Research Institute, Germany</td> <td>Invited expert's presentation</td> </tr> <tr>
   <td>11:50–12:25</td> <td align="center" colspan="4"><em>Panel Discussion</em><br>(Moderation: Dr. Frederic Kracht, Development Centre for Ship Technology and Transport Systems, Germany) </td> </tr> 
   <tr>
@@ -35,11 +35,18 @@ Please note: This schedule is tentative and subject to change.
 
 ## Invited experts
 
-### [Dr. Asgeir Sørensen](https://www.ntnu.edu/employees/asgeir.sorensen)
+<!-- ### [Dr. Asgeir Sørensen](https://www.ntnu.edu/employees/asgeir.sorensen)
 
 <img src="Sorensen.jpg" alt="Sorensen" align="left" width="140" style="vertical-align:middle;margin:0px 25px 0px 0px"/>Asgeir obtained his PhD degree in Engineering Cybernetics at NTNU in 1993. In 1989-1992 Asgeir was employed at MARINTEK (SINTEF) as Research Scientist. Since 1999 Asgeir has held the position of Professor of Marine Control Systems at the Department of Marine Technology, NTNU (Norway). He is currently acting as key scientist and the Director of the NTNU VISTA CAROS. Asgeir has together with colleagues established the Marine Cybernetics Laboratory (MC-Lab) and the Applied Underwater Robotics Laboratory (AUR-Lab), both at NTNU. Asgeir is engaged in bringing fundamental research results into value creation by innovations and entrepreneurships.<br><br>
 
 _Title of talk: The influence of green shift in shipping affecting control system designs for guidance, navigation and control systems_
+-->
+
+### [Dr. Andreas Malikopoulos](https://www.engineering.cornell.edu/people/andreas-malikopoulos/)
+
+<img src="Andreas.png" alt="Andreas" align="left" width="140" style="vertical-align:middle;margin:0px 25px 0px 0px"/>Andreas is a Professor in the School of Civil & Environmental Engineering and the Director of the Information and Decision Science Lab at Cornell University. He received a Diploma from the National Technical University of Athens, Greece, and his M.S. and Ph.D. degrees from the University of Michigan, Ann Arbor, in 2004 and 2008, respectively, all in Mechanical Engineering. His research interests are grounded at the intersection of learning and control to enable systems—whether vehicles, robots, or large-scale infrastructures—to operate autonomously and achieve near-optimal performance while safely adapting to and interacting with dynamic environments. His work integrates decision-theoretic foundations with learning-based methods to endow engineered systems with the capability to reason, learn, and act in real time.
+
+_Title of talk: Autonomous Vehicles: Where Learning Meets Control_
 
 <!-- ### [Dr. Daniel Medina](https://www.linkedin.com/in/eng-daniel-medina)
 
