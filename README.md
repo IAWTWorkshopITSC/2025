@@ -18,18 +18,17 @@ Presentations by [invited experts](#invited-experts) will provide exciting insig
 
 
 <table style="text-align:left;"> <tr><th>Time</th><th>Title</th><th>Speaker</th><th>Affiliation</th><th>Type</th></tr><tbody> 
-  <tr><td>08:30–08:40</td><td>Opening</td><td>Dr. Philipp Sieberg</td><td>Schotte Automotive, Germany</td><td>Organization</td></tr> 
-  <tr><td>08:40–09:05</td> <td>Towards Advanced Decision-Making Support for Shipping Safety: A Functional Connectivity Analysis</td> <td>Dr. Shiqi Fan (TBC) </td> <td>Wuhan University of Technology, China</td> <td>Invited expert's presentation</td> </tr>
-  <tr><td>09:05–09:30</td> <td>Human, Machine, and the Sea: Rethinking Human Factors in Maritime Automation</td> <td>Dr. Magnus Liebherr (TBC) </td> <td>University of Duisburg-Essen, Germany</td> <td>Invited expert's presentation</td> </tr> 
-  <tr><td>09:30–09:55</td> <td>Test, Evaluation &amp; Assurance of Autonomous System Capabilities</td> <td>Dr. Tristan Perez</td> <td>The Boeing Company, Australia</td> <td>Invited expert's presentation</td> </tr> 
-  <tr><td>09:55–10:05</td> <td align="center" colspan="4"><em>Lightning Talks by Poster Contributors</em></td> </tr> 
-  <tr><td>10:05–10:30</td> <td align="center" colspan="4"><em>Poster Session</em></td> </tr> 
-  <tr><td>10:30–11:00</td> <td align="center" colspan="4"><em>Coffee Break &amp; Poster Session (cont.)</em></td> </tr> 
-  <tr><td>11:00–11:25</td> <td>Autonomous Vehicles: Where Learning Meets Control</td> <td>Dr. Andreas Malikopoulos</td> <td>Cornell University, USA</td> <td>Invited expert's presentation</td> </tr> <tr>
-  <td>11:25–11:50</td> <td>Optimized Lock Scheduling with Methods of Reinforcement Learning</td> <td>Tom Legel</td> <td>Federal Waterways Engineering and Research Institute, Germany</td> <td>Invited expert's presentation</td> </tr> <tr>
-  <td>11:50–12:25</td> <td align="center" colspan="4"><em>Panel Discussion</em><br>(Moderation: Dr. Frederic Kracht, Development Centre for Ship Technology and Transport Systems, Germany) </td> </tr> 
+  <tr><td>08:40–09:00</td><td>Opening and warm up</td><td>Dr. Philipp Sieberg</td><td>Schotte Automotive, Germany</td><td>Organization</td></tr> 
+  <!--<tr><td>08:40–09:05</td> <td>Towards Advanced Decision-Making Support for Shipping Safety: A Functional Connectivity Analysis</td> <td>Dr. Shiqi Fan (TBC) </td> <td>Wuhan University of Technology, China</td> <td>Invited expert's presentation</td> </tr>-->
+  <tr><td>09:00–09:25</td> <td>Optimized Lock Scheduling with Methods of Reinforcement Learning</td> <td>Tom Legel</td> <td>Federal Waterways Engineering and Research Institute, Germany</td> <td>Invited expert's presentation</td> </tr> 
+  <tr><td>09:25–09:50</td> <td>Test, Evaluation &amp; Assurance of Autonomous System Capabilities</td> <td>Dr. Tristan Perez</td> <td>The Boeing Company, Australia</td> <td>Invited expert's presentation</td> </tr> 
+  <tr><td>09:50–10:00</td> <td align="center" colspan="4"><em>Lightning Talks by Poster Contributors</em></td> </tr> 
+  <tr><td>10:00–10:30</td> <td align="center" colspan="4"><em>Coffee Break</em></td> </tr> 
+  <tr><td>10:30–11:15</td> <td align="center" colspan="4"><em>Poster Session</em></td> </tr> 
+  <tr><td>11:15–11:40</td> <td>Autonomous Vehicles: Where Learning Meets Control</td> <td>Dr. Andreas Malikopoulos</td> <td>Cornell University, USA</td> <td>Invited expert's presentation</td> </tr> <tr>
+  <td>11:40–12:20</td> <td align="center" colspan="4"><em>Panel Discussion</em><br>(Moderation: Dr. Frederic Kracht, Development Centre for Ship Technology and Transport Systems, Germany) </td> </tr> 
   <tr>
-    <td>12:25–12:30</td> <td>Closing</td> <td>Dr. Hanna Krasowski</td> <td>UC Berkeley, USA</td> <td>Organization</td> </tr> 
+    <td>12:20–12:30</td> <td>Closing</td> <td>Dr. Hanna Krasowski</td> <td>UC Berkeley, USA</td> <td>Organization</td> </tr> 
 </tbody></table>
 
 Please note: This schedule is tentative and subject to change.
