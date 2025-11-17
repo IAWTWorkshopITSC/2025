@@ -47,7 +47,7 @@ Please note: This schedule is tentative and subject to change.
 **Haoze Zhang**  
 *MADRL: A Framework for MASS Sea Surface Image Defogging*
 
-**Li Jiangpeng**  
+**Jiangpeng Li**  
 *Deep Reinforcement Learning-based Hierarchical Framework for Collaborative Multi-UUV Underwater Target Search*
 
 **Sivakumar Rathinam**  
@@ -74,7 +74,7 @@ _Title of talk: Autonomous Vehicles: Where Learning Meets Control_
 Daniel received the B.Eng. in the field of Electrical Engineering 2011 from University of Malaga in 2014, and the M. Sc. and PhD from University Carlos III de Madrid (UC3M) in 2016 and 2022, respectively. He is currently a research fellow at the Institute of Communications and Navigation of the German Aerospace Center (DLR), where he leads the Multi Sensor Systems research group, dedicated to the provision of perception and navigation solutions with applications to intelligent transport and autonomous systems. His research interests include signal processing, robust filtering and estimation theory with applications to satellite-based navigation and SLAM. He is an Associate Editor for the IEEE Transactions on Intelligent Transportation Systems and currently serves as the elected Chair for the IEEE ITSS German Chapter.
 
 _Title of talk: Reliable and Precise Perception and Navigation based on Multimodal Sensing for Inland Waterways_
--->
+
 
 ### [Dr. Magnus Liebherr](https://www.linkedin.com/in/magnus-liebherr-259335183)
 
@@ -82,11 +82,13 @@ _Title of talk: Reliable and Precise Perception and Navigation based on Multimod
 
 _Title of talk: Human, Machine, and the Sea: Rethinking Human Factors in Maritime Automation_
 
+
 ### [Dr. Shiqi Fan](https://www.linkedin.com/in/shiqi-fan-b317658b)
 
 Shiqi, a professor at the School of Transportation and Logistics, Wuhan University of Technology, specialises in maritime human factors and safety. Holding PhD in Maritime Engineering from Liverpool John Moores University, her work advances data-driven risk modelling and the application of neuroimaging techniques in maritime human factors. She has led work packages under the European Research Council funded TRUST project and Marie Skłodowska-Curie actions ENHANCE, focusing on decision-making and human performance in maritime operations. Shiqi is a Chartered Engineer (CEng), Chartered Marine Engineer (CMarEng) and member of the Institute of Marine Engineering, Science and Technology (MIMarEST).	 
 
 _Title of talk: Towards advanced decision-making support for shipping safety: A functional connectivity analysis_
+-->
 
 ### Tom Legel
 
