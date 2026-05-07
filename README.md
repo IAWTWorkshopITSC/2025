@@ -140,7 +140,7 @@ Please make sure to [register](https://ieee-itsc.org/2025/attend/registration/) 
 
   <!-- Right -->
   <a style="text-decoration: none;" href="https://www.uni-due.de/en/index.php" target="_blank">
-    <img src="logo_claim_72dpi_rgb_200.jpg" alt="UDE" height="60"> 
+    <img src="UDE-logo-claim.svg" alt="UDE" height="60"> 
   </a>
 
 </div>
